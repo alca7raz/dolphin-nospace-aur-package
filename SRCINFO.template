@@ -1,4 +1,4 @@
-pkgbase = dolphin-duckspace
+pkgbase = dolphin-nospace
 	pkgdesc = KDE File Manager (with DuckSoft's Space Patch)
 	pkgver = %%pkgver%%
 	pkgrel = 1
@@ -29,5 +29,5 @@ pkgbase = dolphin-duckspace
 	sha256sums = %%sha256sum%%
 	sha256sums = 21a50881ce6dce2a831d8fc0e2d1339a158aaabc65986bbe3c9e990a4a71fcbe
 
-pkgname = dolphin-duckspace
+pkgname = dolphin-nospace
 
